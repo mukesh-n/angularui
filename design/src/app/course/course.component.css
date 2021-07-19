@@ -1,0 +1,33 @@
+.mission
+{
+    background-color: black;
+    padding: 20px 100px;
+}
+.box
+{
+    background-color: transparent;
+}
+
+    .container
+{
+    color: white;
+    position:absolute;
+    top: 10%;
+    left: 10%;
+    transform: translate(-50,-50);
+}
+.img{
+    max-width: 1500px;
+    margin-left: 0px;
+    margin-top: 0rem;
+    
+}
+.gta{
+    font-style: italic;
+}
+@media screen and (max-width:600xp){
+    .mission
+    {
+        padding: 140xp 30px
+    }
+    }

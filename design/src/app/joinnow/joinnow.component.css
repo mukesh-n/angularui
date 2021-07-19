@@ -1,0 +1,17 @@
+.playnow{
+    background-color: black;
+    padding: 140px 100px;
+    
+
+}
+.login{
+    color: white;
+    padding: 20px 30px;
+}
+
+@media screen and (max-width:600xp){
+.playnow
+{
+    padding: 140xp 30px
+}
+}
